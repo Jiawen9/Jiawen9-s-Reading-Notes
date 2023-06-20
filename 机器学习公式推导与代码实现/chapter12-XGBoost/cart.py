@@ -1,5 +1,5 @@
 import numpy as np
-from utils import feature_split, calculate_gini
+from 机器学习公式推导与代码实现.utils import feature_split, calculate_gini
 
 ### 定义树结点
 class TreeNode():
