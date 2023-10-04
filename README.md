@@ -4,3 +4,6 @@ This is a repository for recording reading notes
 ### 《算法通关之路》
 ### 《机器学习算法竞赛实战》
 ### 《机器学习公式推导与代码实现》
+### 《自然语言处理-基于预训练模型》
+### 《动手学深度学习-pytorch版》
+### 《Effective Python》
